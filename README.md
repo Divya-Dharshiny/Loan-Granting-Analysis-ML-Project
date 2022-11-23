@@ -20,7 +20,7 @@ Here I used machine learning prediction method.
 * 3.Descriptive Statistics
 * 4.Data Cleaning
 * 5.Univariate Data Analysis
-* 6. Bivariate Data Analysis
+* 6.Bivariate Data Analysis
 * 7.Comparing Categorical Data with Target Columns
 * 8. Data Preparation
 * 9.Resampling for Balancing the Data
