@@ -22,7 +22,7 @@ Here I used machine learning prediction method.
 * 5.Univariate Data Analysis
 * 6.Bivariate Data Analysis
 * 7.Comparing Categorical Data with Target Columns
-* 8. Data Preparation
+* 8.Data Preparation
 * 9.Resampling for Balancing the Data
 * 10.Machine Learning Modelling
 * 11.Applying Gradient Boosting
